@@ -1,4 +1,4 @@
-# Linkeddata-Scraper
+# LOV scraper
 
 **Summary**: \
 Python script to download all vocabs and some information available from Linked Open Vocabulary (LOV) project (https://lov.linkeddata.es/dataset/lov/vocabs). The oupout is a csv file.
