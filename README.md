@@ -1,7 +1,7 @@
 # Linkeddata-Scraper
 
 **Summary**: \
-Python script to download all vocabs and some information available in linkeddata web (https://lov.linkeddata.es/dataset/lov/vocabs) in tabular format and in a CSV file, using selenium.
+Python script to download all vocabs and some information available from Linked Open Vocabulary (LOV) project (https://lov.linkeddata.es/dataset/lov/vocabs). The oupout is a csv file.
 
 **Requirements**: 
 - selenium
